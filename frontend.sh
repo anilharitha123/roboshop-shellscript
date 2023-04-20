@@ -9,3 +9,5 @@ unzip /tmp/frontend.zip
 ##some files needs to be created
 
 systemctl restart nginx
+
+
